@@ -1,0 +1,56 @@
+[
+	{
+		"project": "Mobile Car Mechanics Co.",
+		"url": "https://github.com/Raajesh3108/Mobile-Car-Mechanics",
+		"repo": "Public",
+		"descriptionTitle": "A Hybrid E-commerce Platform for Mobile Car Mechanics :",
+		"description": "Combining D2C and B2B for Optimal Automotive Service Delivery",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/mcm/mcm-back.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/mcm/shadow.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/mcm/mcm-front.png" }
+		],
+		"stack": [
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "bootstrap", 	"name": "Bootstrap", 	"type": "devicon" },
+			{ "key": "jquery",		"name": "Jquery", 		"type": "devicon" },
+			{ "key": "csharp", 		"name": "C#", 			"type": "devicon" },
+			{ "key": "dot-net", 	"name": "ASP.NET", 		"type": "devicon" },
+			{ "key": "microsoftsqlserver", "name": "microsoftsqlserver", 	"type": "devicon" },
+			{ "key": "code",		"name": "browserstack", "type": "fad" },
+			{ "key": "android",		"name": "Android", 		"type": "devicon" },
+			{ "key": "visualstudio","name": "Visualstudio", "type": "devicon" },
+			{ "key": "git",			"name": "Git", 			"type": "devicon" },
+			{ "key": "github",		"name": "Github", 		"type": "devicon" }
+		]
+	},
+	{
+		"project": "Web Data Analytics",
+		"url": "https://github.com/Raajesh3108/Tailwind-Data-Analytics",
+		"repo": "Public",
+		"descriptionTitle": "An Open-Source Web Data Analytics :",
+		"description": "Insights through Analysis, Measurement, Collection & Reporting for Informed Decision-Making",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/tailwind.png" }
+		],
+		"stack": [
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "tailwindcss", "name": "tailwindcss", 	"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "bootstrap", 	"name": "Bootstrap", 	"type": "devicon" },
+			{ "key": "circle-nodes","name": "Flowbite", 	"type": "fad" },
+			{ "key": "vscode",		"name": "vscode", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git", 			"type": "devicon" },
+			{ "key": "github",		"name": "Github", 		"type": "devicon" }
+		]
+	}
+]

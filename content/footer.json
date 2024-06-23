@@ -1,0 +1,52 @@
+{
+	"acknowledgments": [
+		{ 
+			"person": "Microsoft Certified : Azure Fundamentals",
+			"link": "https://learn.microsoft.com/api/credentials/share/en-us/RajeshPrajapati-4740/78BA53BDDE5E0758?sharingId=93D77B2A8DA40900",
+			"note": "A Foundational knowledge of cloud services."
+		},
+		{ 
+			"person": "Coursera Certified : Machine Learning",
+			"link": "https://coursera.org/share/5604a06abcae58f0231a63433b34c55b",
+			"note": "Comprehensive machine learning curriculum."
+		},
+		{ 
+			"person": "Google Certified : Digital Marketing",
+			"link": "https://drive.google.com/file/d/1kDmFOtlTifVEhaeoVIp7l4zipJju1kaZ/view?usp=sharing",
+			"note": "Essential skills in digital marketing."
+		},
+		{ 
+			"person": "Vercel - Platform",
+			"link": "https://vercel.com/docs",
+			"note": "Host your own Next.js project for free!"
+		}
+	],
+
+	"links": [
+		{ 
+			"person": "LeetCode",
+			"link": "https://leetcode.com/u/RajeshPrajapati/",
+			"note": "Checkout my LeetCode Profile"
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://www.linkedin.com/in/-rajeshprajapati/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/Raajesh3108",
+			"icon": "github"
+		},
+		{
+			"url": "https://instagram.com/__Raajesh_",
+			"icon": "instagram"
+		},
+		{
+			"url": "https://twitter.com/RaajeshDev",
+			"icon": "twitter"
+		}
+		
+	]
+}
