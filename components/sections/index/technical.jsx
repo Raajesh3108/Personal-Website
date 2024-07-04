@@ -92,6 +92,7 @@ const tech	= [
 	{ key: 'react', 		name: 'React', 				type: 'devicon' },
 	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
 	{ key: 'jquery', 		name: 'jQuery', 			type: 'devicon' },
+	{ key: 'typescript', 	name: 'typescript', 		type: 'devicon' },
 	{ key: 'e', 			name: 'Express', 			type: 'fas' },
 	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
 	{ key: 'nextjs', 		name: 'NextJS', 			type: 'devicon' },
