@@ -30,7 +30,7 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle=""
-					subTitle="With a diverse skill set that includes Front-end and Back-end development."
+					subTitle="Specializing in Front-end development with a diverse skill set."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
@@ -42,7 +42,7 @@ export default function About() {
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my technical expertise, I also have understanding about user-experience, time management and multitasking skills which honed through my experience. Along with working on Web Development projects, I'm actively engaged in the financial market, investing and managing personal portfolios to stay abreast of current trends and market movements."
+							copy="In addition to my technical expertise, I have a deep understanding of user-experience, project management and teamwork skills, honed through my experience as a software engineer. Alongside working on Web Development projects, I'm actively engaged in the financial market, investing and managing personal portfolios to stay abreast of current trends and market movements."
 						/>
 						<BadgesBlock 
 							title="Reasearch and planning" 
@@ -51,7 +51,7 @@ export default function About() {
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. Demonstrating a practical understanding of strategies to bring passion and value to any project. I enjoy working with new frameworks and am always looking for ways to expand my knowledge."
+							copy="One of my favorite aspects of creating is planning the architecture of a project. I enjoy applying various strategies to make each project more exciting and valuable. Working with new frameworks is something I find rewarding, and I’m always looking for ways to expand my knowledge."
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>
@@ -64,7 +64,7 @@ export default function About() {
 
 const methods 	= [
 	{ key: 'planet-moon', 		name: 'User Research', 		type: 'fad' },
-	{ key: 'qrcode', 			name: 'Digital Strategy', 	type: 'fad' },
+	{ key: 'solar-system', 		name: 'Usability', 			type: 'fad' },
 	{ key: 'window', 			name: 'Design Systems', 	type: 'fad' },
 	{ key: 'layer-plus', 		name: 'Accessibility', 		type: 'fad' },
 	{ key: 'brain-circuit', 	name: 'API Strategy', 		type: 'fad' },
