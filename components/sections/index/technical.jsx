@@ -30,20 +30,20 @@ export default function Technical() {
 				<SectionTitle
 					title="Technical"
 					preTitle="Hardskills"
-					subTitle="As a creative technologist, I craft intuitive digital experiences using a diverse set of tools and languages."
+					subTitle="As a front-end developer, I build dynamic and responsive web interfaces using a wide range of modern technologies and frameworks."
 				/>
 				<section className={`${about.content} ${about.container}`}>
 					<div className={about.copy}>
 						<CopyBlock 
-							title="Full-Stack Development"
+							title="Front-End Development"
 							icon={[ 'fad', 'code' ]}
-							copy="Having a balanced skill set in both front-end and back-end development, I bring a unique perspective to every project and always stay informed about the latest innovations and techniques."
+							copy="With a strong curiosity for full-stack development concepts, I bring a unique perspective to each project by combining deep front-end expertise with an understanding of back-end principles. I stay informed about the latest innovations and techniques to ensure my work remains both cutting-edge and effective."
 							iconClass={about.icon}
 							containerClass={about.container}
 						/>
 						<BadgesBlock 
 							title="Software I love to work with"
-							copy="With over 4 years of experience specializing in Web Development. I've honed a deep understanding of designing interfaces that rival top-tier software products. Here are some of the tools I have used over that time."
+							copy="With over 4 years of experience specializing in web development, I have gained a thorough understanding of designing interfaces that meet the standards of top-tier software products. Below are some of the tools I’ve used during this time."
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
@@ -53,7 +53,7 @@ export default function Technical() {
 						/>
 						<BadgesBlock 
 							title="Technologies I love to build with" 
-							copy="I deeply enjoy solving problems through code. From the Front-end all the way to the Back-end development and the APIs in-between."
+							copy="I deeply enjoy solving problems through code, from crafting engaging user interfaces to implementing responsive designs and optimizing user experience. I also work with APIs to enhance functionality and integration."
 							list={tech} 
 							block="tech"
 							fullContainer="fullContainer" 
