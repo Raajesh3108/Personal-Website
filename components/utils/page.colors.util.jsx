@@ -1,6 +1,14 @@
 import css from '../../styles/utils/page.colors.module.scss'
+import { useEffect } from 'react'
 
 export default function ColorOverrides({ colors }) {
+	useEffect(() => {
+		// Check if a theme is already set, otherwise set to dark
+		if (!document.documentElement.getAttribute('data-theme')) {
+			document.documentElement.setAttribute('data-theme', 'dark');
+		}
+	}, []);
+	
 	return (
 		<>	
 			<data id="page-specific-colors" className={css.colors}>
