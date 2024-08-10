@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const profession = Software Developer;",
+		"start": "const profession = Software Engineer;",
 		"end": "const name = Rajesh Kumar;",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -15,7 +15,7 @@
 		"usp": "I design and build meaningful experiences."
 	},
 
-	"paragraph": "A passionate software developer, combines technical expertise with innovative problem-solving to deliver robust solutions that exceed expectations.",
+	"paragraph": "Seasoned Software Engineer especially in Frontend side, with a passion for creating pixel-perfect web experiences. I work with JavaScript and specialize in all-things web.",
 
 	"buttons": {
 		"primary": {
