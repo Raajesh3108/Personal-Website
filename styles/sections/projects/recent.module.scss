@@ -115,6 +115,7 @@
 	border-radius: 99rem;
 	border: 1px solid var(--primary-dark);
 	background: var(--primary-dark);
+	white-space: nowrap; /* Added to keep the text in a single line */
 }
 
 .descriptionContainer {
