@@ -3,8 +3,8 @@
 		"project": "Mobile Car Mechanics",
 		"url": "https://github.com/Raajesh3108/Mobile-Car-Mechanics",
 		"repo": "Public",
-		"descriptionTitle": "A Hybrid E-commerce platform for Automotive :",
-		"description": "Combining D2C and B2B for optimal service.",
+		"descriptionTitle": "A Hybrid Platform for Automotive Services :",
+		"description": "Blending D2C and B2B for innovative results.",
 		"imageOptions": [
 		],
 		"images": [
@@ -32,13 +32,13 @@
 		"project": "Web Data Analytics",
 		"url": "https://github.com/Raajesh3108/Tailwind-Data-Analytics",
 		"repo": "Public",
-		"descriptionTitle": "An open-source web-based Data Analytics :",
-		"description": "Deriving insights through measurement, collection, reporting & analysis for informed decision-making.",
+		"descriptionTitle": "Open-Source Web based Data Analytics :",
+		"description": "Insights through measurement and analysis for smarter decisions.",
 		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
+			{ "key": "size", "value": "large" }
 		],
 		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/tailwind.png" }
+			{ "key": "portfolio", "hover": "left", "h": "770", "w": "567",  "url": "/img/tailwind.png" }
 		],
 		"stack": [
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
