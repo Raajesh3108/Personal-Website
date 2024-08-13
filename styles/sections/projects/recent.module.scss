@@ -89,7 +89,25 @@
 	padding: 1rem;
 	gap: .5rem;
 	background: var(--background-dim);
-	overflow: auto; /* Add this to allow scrolling if content overflows */
+	overflow: auto; /* Allows scrolling if content overflows */
+
+	/* Customize scrollbar for WebKit browsers */
+	&::-webkit-scrollbar {
+		height: 4px; /* Adjust the height of the scrollbar */
+	}
+
+	&::-webkit-scrollbar-thumb {
+		background-color: var(--primary-dark); /* Color of the scrollbar */
+		border-radius: 10px; /* Roundness of the scrollbar */
+	}
+
+	&::-webkit-scrollbar-track {
+		background-color: var(--background-dim); /* Background of the scrollbar track */
+	}
+	
+	/* Firefox scrollbar */
+	scrollbar-width: thin;
+	scrollbar-color: var(--primary-dark) var(--background-dim);
 
 	&:before {
 		content: '';
