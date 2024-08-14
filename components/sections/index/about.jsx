@@ -42,7 +42,7 @@ export default function About() {
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my technical expertise, I have a deep understanding of user-experience, project management and teamwork skills, honed through my experience as a software engineer. Alongside working on Web Development projects, I'm actively engaged in the financial market, investing and managing personal portfolios to stay abreast of current trends and market movements."
+							copy="I excel in soft skills such as UX design, project management and collaborative teamwork, which I've cultivated through my experience as a software engineer. Alongside my work on web development projects, I actively engage in the financial market by investing, managing personal portfolios and staying informed about market trends."
 						/>
 						<BadgesBlock 
 							title="Reasearch and planning" 
